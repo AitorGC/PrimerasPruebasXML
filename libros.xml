@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE libros SYSTEM "librosCTRL.dtd">
+<libros>
+	<libro>
+		<titulo>El buen amigo</titulo>
+		<autor>Lope de Vega</autor>
+		<isbn>978-3-16-148410-0</isbn>
+		<precioEU>20</precioEU>
+	</libro>
+	<libro>
+		<titulo>El mal amigo</titulo>
+		<autor>Lope de Vega</autor>
+		<autor>Faemino Pacuco</autor>
+		<isbn>547-3-23-148410-2</isbn>
+		<precioEU>16</precioEU>	
+	</libro>
+	<libro>
+		<titulo>El peor amigo</titulo>
+		<autor>Pancracia Sarabia</autor>
+		<precioEU>3</precioEU>	
+	</libro>
+	<libro>
+		<titulo>El mejor amigo</titulo>
+		<autor>Sirino Amunzaga</autor>
+		<isbn>269-3-31-148410-7</isbn>
+		<precioEU>16</precioEU>
+		<precioEU>21</precioEU>
+	</libro>
+	<libro>
+		<titulo>Los amigos lo dan gratis</titulo>
+		<autor>Richard Gustavson</autor>
+		<isbn>978-3-23-526598-2</isbn>
+	</libro>	
+</libros>
+
+
+
+
+
+
+
